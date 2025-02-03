@@ -14,3 +14,7 @@ h3 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color:cadetblue;
 }
+.smallbox {
+    background-color: aliceblue;
+    padding: 10px;
+}
